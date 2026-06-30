@@ -21,4 +21,8 @@ df = pd.DataFrame(customers)
 df.to_csv("customers.csv", index=False)
 
 print(df.head())
+<<<<<<< HEAD
 print("Customers generated successfully.")
+=======
+print("Customers generated successfully.")
+>>>>>>> 4f4d27a (Day 1 - Generated ecommerce datasets)
