@@ -1,0 +1,3 @@
+alert_id,alert_date,alert_type,severity,message,recommended_action
+56edaafa,2026-07-01,Delivery Delays,High,Delay rate is 49.88%,Review logistics operations
+d080620b,2026-07-01,Low Inventory,Medium,12 products have low inventory,Replenish stock
