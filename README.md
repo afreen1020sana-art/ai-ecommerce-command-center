@@ -49,7 +49,7 @@ This project provides a centralized command center to monitor performance and pr
 # 📂 Project Structure
 
 ```text
-ai-powered-supply-chain-command-center/
+ai-ecommerce-command-center/
 │
 ├── data/
 │   ├── customers.csv
@@ -80,7 +80,7 @@ ai-powered-supply-chain-command-center/
 
 # 🏗️ Project Architecture
 
-![Architecture](docs/screenshots/project_architecture.png)
+<img width="387" height="587" alt="image" src="https://github.com/user-attachments/assets/1f2947ea-aa41-41ab-89b8-4f456fba13eb" />
 
 ---
 
@@ -92,13 +92,15 @@ ai-powered-supply-chain-command-center/
 
 # 🤖 AI Alert Explanation
 
-![AI Alert Explanation](docs/screenshots/ai_alert_explanation.png)
+<img width="930" height="705" alt="ai explanation " src="https://github.com/user-attachments/assets/8d365203-0f3c-45b1-95be-64a5d6ee7a6f" />
+
 
 ---
 
 # 📈 Dashboard Features
 
-### Executive KPIs
+## Executive KPIs
+
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -106,7 +108,8 @@ ai-powered-supply-chain-command-center/
 - Delay %
 - Low Stock Products
 
-### Business Visualizations
+## Business Visualizations
+
 - Revenue Trend
 - Revenue by Category
 - Top Products
@@ -115,7 +118,8 @@ ai-powered-supply-chain-command-center/
 - Order Status Distribution
 - Alert Feed
 
-### Interactive Features
+## Interactive Features
+
 - Date Slicer
 - Region Filter
 - Category Filter
@@ -127,13 +131,19 @@ ai-powered-supply-chain-command-center/
 
 The project includes an AI layer that:
 
-Detects delivery delays
-Identifies low inventory
-Flags high return rates
-Explains business impact
-Recommends corrective actions
+✅ Detects delivery delays
 
-Example:
+✅ Identifies low inventory
+
+✅ Flags high return rates
+
+✅ Explains business impact
+
+✅ Recommends corrective actions
+
+### Example
+
+```text
 ALERT: Delivery Delays
 SEVERITY: High
 MESSAGE: Delay rate is 49.88%
@@ -187,7 +197,7 @@ Alerts (Disconnected)
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-powered-supply-chain-command-center.git
+https://github.com/afreen1020sana-art/ai-ecommerce-command-center
 ```
 
 ## Install Dependencies
@@ -209,11 +219,19 @@ python data/generate_alerts.py
 
 ## Run AI Alert Explanation
 
-<img width="930" height="705" alt="image" src="https://github.com/user-attachments/assets/ef2a0fdd-a06d-4607-a194-0b2346025b38" />
+```bash
+python ai/explain_alerts.py
+```
+
+---
 
 # 📊 Power BI Dashboard
 
-<img width="1392" height="727" alt="image" src="https://github.com/user-attachments/assets/7f5bfc83-9e5e-41fb-a989-4c754dc3c938" />
+Open:
+
+```text
+https://app.powerbi.com/view?r=eyJrIjoiMDAzODhhZDgtY2E0Yy00Y2IwLThlNGEtN2Y4YzVjMTgxYTRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+```
 
 Refresh the data and explore the dashboard.
 
@@ -244,7 +262,7 @@ This solution helps organizations:
 
 # 👨‍💻 Author
 
-Sana Afreen
+**Sana Afreen**
 
 Power BI Developer | Data Analyst | Business Intelligence Engineer
 
@@ -252,7 +270,7 @@ Power BI Developer | Data Analyst | Business Intelligence Engineer
 
 🔗 LinkedIn: https://www.linkedin.com/in/sana3438/
 
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/afreen1020sana-art
 
 ---
 
