@@ -86,7 +86,8 @@ ai-ecommerce-command-center/
 
 # 📊 Dashboard Preview
 
-![Dashboard](docs/screenshots/dashboard.png)
+<img width="1397" height="732" alt="image" src="https://github.com/user-attachments/assets/f0c49268-e168-407a-b6dd-2e6743fe880f" />
+
 
 ---
 
